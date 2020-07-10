@@ -1,3 +1,9 @@
+# Benjamin Mahr
+I'm a software engineer (with background of mechanical engineering) and head of the software development department at KISSsoft AG.
+Next to leading the software development department of KISSsoft AG i'm strongly focuse on architecural questions 
+
+
+
 ### Hi there 👋
 
 <!--
