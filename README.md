@@ -1,23 +1,29 @@
 # Benjamin Mahr
 
-I'm a software engineer (with a background in mechanical engineering) and head of the software development department at [KISSsoft AG][kisssoft]. I'm strongly focused on solutions to keep our over 3m LOC applications maintainable and keeping the architecture of the application neat. Besides, I'm part of the core team maintaining and developing the contact analysis (numerical analysis of meshing gears) functionality our software provides.
+I'm a software engineer (with a background in mechanical engineering) and head of the software development department at [KISSsoft AG][kisssoft]. I'm strongly focused on solutions to keep our over 3M LOC applications maintainable and keeping the architecture of the application neat. Besides, I'm part of the core team maintaining and developing the contact analysis (numerical analysis of meshing gears) functionality our software provides.
 
-I'm strongly convinced of learning and exploring new topics by teaching/explaining them and therefore have my blog [thoughts-on-coding.com][blog] where I occasionally blog about software engineering topics I'm interested in.
+I'm strongly convinced of learning and exploring new topics by teaching/explaining them and therefore I'm running my blog [thoughts-on-coding.com][blog] where I occasionally blog about software engineering topics I'm interested in.
 
 ## Experience
-* 2018 – today: Software Engineer and Head of Development at [KISSsoft AG][kisssoft]
+* 2018 – today: Software Engineer and Co-Head of Development at [KISSsoft AG][kisssoft]
   * All Tasks as mentioned below
   * Core Technology Planning
-  * Project and Product Planning
-  * Leading Development Team
-    * 9 Core Product Developer
+  * Project/Product Planning and Estimation
+  * Co-Leading Development Team
+    * 12 Core Product Developer
     * 3 Tooling/Web Developer
+  * Co-Leading HR concerns in the Development Department
+    * Interview Process Planning and Implementation
+    * Interviewing candidates
+  * Two-Way contact point between customers/sales/support and development team
+  * Implementation and modernization of Software Development Process
 * 2010 – 2017: Software/Mechanical Engineer at [KISSsoft AG][kisssoft]
-  * Lead development of contact analysis
+  * Lead development of contact analysis and load distribution calculation
     * Requirements Engineering
     * UI/UX Design and Mockups
     * Design of Mathematical- and Software-Algorithms
     * Architecture draft and implementation
+  * Design and implementation of a company internal CRM system
   * Implementation and improvements of test procedures
   * Implementation of a Continuous Integration Process
   * Managing/Maintaining of Development IT-Infrastructure
@@ -25,7 +31,23 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
   * Customer Training
   * First/Second Level Support
 
+## Education
+* 2013 – 2015: Master Advanced Studies Software Engineering at [HSR Rapperswil][hsr]
+* 2006 – 2011: Bachelor of Mechanical Engineering at [Hochschule Darmstadt][hda]
+
 ## Projects
+Although I don't have finalized personal projects to show until now, good references are
+KISSsoft
+[![](kisssoftsmall.png)](kisssoft.png)
+
+or many of my GitHub projects such as<br> 
+– [Gravity][gravity], a example implementation of the N-Body problem (WIP)<br> 
+– [linAlg][linalg], a example implementation of several matrix decomposition methods<br> 
+– [numericalIntegration][numint], a example implementation of several numerical integration methods<br> 
+– [rootApproximation][root], a example implementation of several numerical root approximation methods<br> 
+
+and comming soon<br> 
+– octologs.com, a Nuxt.js (frontend) and Kotlin/SpringBoot (Backend) based online scuba diving logbook
 
 ## Technical Skills
 ### Programming Languages
@@ -36,23 +58,27 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 
 ### Tooling (only development relevant tooling listed)
 * **Operating System:** Linux (Fedora, Debian), Windows
-* **Management:** Jira, OpenProject, 
+* **Management:** Atlassian Jira, Atlassian Confluence, OpenProject
 * **VCS:** Git, Surround SCM, SVN
 * **CI:** Jenkins, CircleCI, Github Actions/CI
-* **IDE:** Visual Studio (Pro/Code), IntelliJ, Eclipse
+* **IDE:** Visual Studio (Pro/Code), IntelliJ, Eclipse, CLion
 * **Build Tooling:** Gradle, Maven, MSBuild, CMake, vcpkg
 * **Cloud Services:** Heroku, AWS
 * **Databases:** PostgreSQL
 * **Quality:** SonarQube, CPPCheck, ReSharper
+* **Miscellaneous:** Intel Parallel Studio, Balsamiq, wxMaxima
 
 ### Social and Engineering Skills
 * Servant Leadership
+* Team Player
+
 * Behavior-Driven-Development, Test-Driven-Development
 * Always striving to become a domain expert
+* Experienced in refactoring and modernizing big software projects with long history
 * Broad knowledge in all Software Development Process steps
   * Requirements Engineering
-  * UI/UX Design
-  * Architecting
+  * UI/UX Design and Mockups
+  * Architecting Software Systems
   * Implementation
   * Testing
   * Maintainance
@@ -93,21 +119,6 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 – [Twitter][twitter]<br>
 – [Xing][xing]<br>
 
-<!--
-**Ben1980/Ben1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [kisssoft]: https://kisssoft.com
 [blog]: https://thoughts-on-coding.com
 [github]: https://github.com/Ben1980
@@ -128,6 +139,8 @@ Here are some ideas to get you started:
 [opengl]: https://www.opengl.org/
 [catch]: https://github.com/catchorg/Catch2
 [doctest]: https://github.com/onqtam/doctest
+[hda]: https://h-da.de/
+[hsr]: https://www.hsr.ch/
 
 [bp-1]: https://thoughts-on-coding.com/2019/02/08/the-n-body-problem-series/
 [bp-2]: https://thoughts-on-coding.com/2019/02/10/why-i-think-of-myself-as-a-programmer-instead-of-a-c-programmer/
@@ -147,3 +160,8 @@ Here are some ideas to get you started:
 [bp-16]: https://thoughts-on-coding.com/2019/06/12/numerical-methods-with-c-part-4-introduction-into-decomposition-methods-of-linear-equation-systems/
 [bp-17]: https://thoughts-on-coding.com/2020/01/19/new-name-new-url-new-opportunities/
 [bp-18]: https://thoughts-on-coding.com/2020/04/20/a-cpp-github-template-repository-utilizing-circleci-cmake-docker-and-doxygen/
+
+[gravity]: https://github.com/Ben1980/gravity
+[linalg]: https://github.com/Ben1980/linAlg
+[numint]: https://github.com/Ben1980/numericalIntegration
+[root]: https://github.com/Ben1980/rootApproximation
