@@ -39,7 +39,6 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
 Although I don't have finalized personal projects to show until now, good references are
 KISSsoft
 [![](kisssoftsmall.png)](kisssoft.png)
-
 or many of my GitHub projects such as<br> 
 – [Gravity][gravity], a example implementation of the N-Body problem (WIP)<br> 
 – [linAlg][linalg], a example implementation of several matrix decomposition methods<br> 
@@ -71,7 +70,6 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 ### Social and Engineering Skills
 * Servant Leadership
 * Team Player
-
 * Behavior-Driven-Development, Test-Driven-Development
 * Always striving to become a domain expert
 * Experienced in refactoring and modernizing big software projects with long history
