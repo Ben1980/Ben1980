@@ -36,9 +36,8 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
 * 2006 – 2011: Bachelor of Mechanical Engineering at [Hochschule Darmstadt][hda]
 
 ## Projects
-Although I don't have finalized personal projects to show until now, good references are
-KISSsoft
-![Example KISSsoft Contact Analysis Screenshot](https://github.com/Ben1980/Ben1980/blob/master/kisssoftsmall.png)<br>
+Although I don't have finalized personal projects to show until now, good references are KISSsoft
+[![Example KISSsoft Contact Analysis Screenshot](https://github.com/Ben1980/Ben1980/blob/master/kisssoftsmall.png)](https://github.com/Ben1980/Ben1980/blob/master/kisssoft.png)<br>
 or many of my GitHub projects such as<br> 
 – [Gravity][gravity], a example implementation of the N-Body problem (WIP)<br> 
 – [linAlg][linalg], a example implementation of several matrix decomposition methods<br> 
