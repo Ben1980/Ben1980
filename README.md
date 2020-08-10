@@ -5,7 +5,7 @@ I'm a software engineer (with a background in mechanical engineering) and head o
 I'm strongly convinced of learning and exploring new topics by teaching/explaining them and therefore I'm running my blog [thoughts-on-coding.com][blog] where I occasionally blog about software engineering topics I'm interested in.
 
 ## Experience
-* 2018 – today: Software Engineer and Co-Head of Development at [KISSsoft AG][kisssoft]
+* 2018 – today: **Software Engineer and Co-Head of Development at [KISSsoft AG][kisssoft]**
   * All Tasks as mentioned below
   * Core Technology Planning
   * Project/Product Planning and Estimation
@@ -17,7 +17,7 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
     * Interviewing candidates
   * Two-Way contact point between customers/sales/support and development team
   * Implementation and modernization of Software Development Process
-* 2010 – 2017: Software/Mechanical Engineer at [KISSsoft AG][kisssoft]
+* 2010 – 2017: **Software/Mechanical Engineer at [KISSsoft AG][kisssoft]**
   * Lead development of contact analysis and load distribution calculation
     * Requirements Engineering
     * UI/UX Design and Mockups
