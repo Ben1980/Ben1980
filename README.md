@@ -83,6 +83,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 
 ## Publications
 ### Blog Posts
+* 2020-09-14: [Structure Padding in C++][bp-19]
 * 2020-04-20: [A C++ GitHub Template Repository utilizing CircleCI, CMAKE, Docker and Doxygen][bp-18]
 * 2020-01-19: [New Name … New URL … New Opportunities][bp-17]
 * 2019-06-12: [Numerical Methods with C++ Part 4: Introduction Into Decomposition Methods of Linear Equation Systems][bp-16]
@@ -157,6 +158,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [bp-16]: https://thoughts-on-coding.com/2019/06/12/numerical-methods-with-c-part-4-introduction-into-decomposition-methods-of-linear-equation-systems/
 [bp-17]: https://thoughts-on-coding.com/2020/01/19/new-name-new-url-new-opportunities/
 [bp-18]: https://thoughts-on-coding.com/2020/04/20/a-cpp-github-template-repository-utilizing-circleci-cmake-docker-and-doxygen/
+[bp-19]: https://thoughts-on-coding.com/2020/09/14/structure-padding-in-cpp/
 
 [gravity]: https://github.com/Ben1980/gravity
 [linalg]: https://github.com/Ben1980/linAlg
