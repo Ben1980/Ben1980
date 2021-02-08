@@ -32,6 +32,7 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
   * First/Second Level Support
 
 ## Education
+* 2021 - today: Bachelor of Science Computer Science at [FernUni Hagen][fuh]
 * 2013 – 2015: Master Advanced Studies Software Engineering at [HSR Rapperswil][hsr]
 * 2006 – 2011: Bachelor of Mechanical Engineering at [Hochschule Darmstadt][hda]
 
@@ -139,6 +140,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [doctest]: https://github.com/onqtam/doctest
 [hda]: https://h-da.de/
 [hsr]: https://www.hsr.ch/
+[fuh]: https://www.fernuni-hagen.de/
 
 [bp-1]: https://thoughts-on-coding.com/2019/02/08/the-n-body-problem-series/
 [bp-2]: https://thoughts-on-coding.com/2019/02/10/why-i-think-of-myself-as-a-programmer-instead-of-a-c-programmer/
