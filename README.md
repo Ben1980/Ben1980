@@ -121,7 +121,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [kisssoft]: https://kisssoft.com
 [blog]: https://thoughts-on-coding.com
 [github]: https://github.com/Ben1980
-[linkedin]: https://www.linkedin.com/in/benjamin-mahr-728a1639/
+[linkedin]: https://www.linkedin.com/in/benmahr/
 [twitter]: https://twitter.com/BenMahr
 [mail]: ben.amhr@gmail.com
 [xing]: https://www.xing.com/profile/Benjamin_Mahr3/cv
