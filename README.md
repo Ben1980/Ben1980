@@ -40,7 +40,7 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
 Good references of my work are KISSsoft
 [![Example KISSsoft Contact Analysis Screenshot](https://github.com/Ben1980/Ben1980/blob/master/kisssoftsmall.png)](https://github.com/Ben1980/Ben1980/blob/master/kisssoft.png)<br>
 or many of my GitHub projects such as<br>
-- [Thoughts on Coding Blog][blogsrc], source code of my 11ty based blog [thoughts-on-coding.com][blog]<br>
+– [Thoughts on Coding Blog][blogsrc], source code of my 11ty based blog [thoughts-on-coding.com][blog]<br>
 – [Gravity][gravity], a example implementation of the N-Body problem (WIP)<br> 
 – [linAlg][linalg], a example implementation of several matrix decomposition methods<br> 
 – [numericalIntegration][numint], a example implementation of several numerical integration methods<br> 
@@ -85,6 +85,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 
 ## Publications
 ### Blog Posts
+* 2021-03-11: [From WordPress to 11ty][bp-21]
 * 2020-09-14: [Structure Padding in C++][bp-19]
 * 2020-04-20: [A C++ GitHub Template Repository utilizing CircleCI, CMAKE, Docker and Doxygen][bp-18]
 * 2020-01-19: [New Name … New URL … New Opportunities][bp-17]
@@ -162,6 +163,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [bp-17]: https://thoughts-on-coding.com/2020/01/19/new-name-new-url-new-opportunities/
 [bp-18]: https://thoughts-on-coding.com/2020/04/20/a-cpp-github-template-repository-utilizing-circleci-cmake-docker-and-doxygen/
 [bp-19]: https://thoughts-on-coding.com/2020/09/14/structure-padding-in-cpp/
+[bp-20]: https://thoughts-on-coding.com/2021/03/11/from-wordpress-to-11ty/
 
 [gravity]: https://github.com/Ben1980/gravity
 [linalg]: https://github.com/Ben1980/linAlg
