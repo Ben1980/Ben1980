@@ -85,7 +85,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 
 ## Publications
 ### Blog Posts
-* 2021-03-11: [From WordPress to 11ty][bp-21]
+* 2021-03-11: [From WordPress to 11ty][bp-20]
 * 2020-09-14: [Structure Padding in C++][bp-19]
 * 2020-04-20: [A C++ GitHub Template Repository utilizing CircleCI, CMAKE, Docker and Doxygen][bp-18]
 * 2020-01-19: [New Name … New URL … New Opportunities][bp-17]
