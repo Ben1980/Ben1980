@@ -32,9 +32,9 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
   * First/Second Level Support
 
 ## Education
-* 2021 – today: Bachelor of Science Computer Science at [FernUni Hagen][fuh]
-* 2013 – 2015: Master Advanced Studies Software Engineering at [HSR Rapperswil][hsr]
-* 2006 – 2011: Bachelor of Mechanical Engineering at [Hochschule Darmstadt][hda]
+* 2021 – today: B. Sc. Computer Science at [FernUni Hagen][fuh]
+* 2013 – 2015: MAS Software Engineering at [HSR Rapperswil][hsr]
+* 2006 – 2011: B. Eng. Mechanical Engineering at [Hochschule Darmstadt][hda]
 
 ## Projects
 Good references of my work are KISSsoft
