@@ -41,6 +41,7 @@ Good references of my work are KISSsoft
 [![Example KISSsoft Contact Analysis Screenshot](https://github.com/Ben1980/Ben1980/blob/master/kisssoftsmall.png)](https://github.com/Ben1980/Ben1980/blob/master/kisssoft.png)<br>
 or many of my GitHub projects such as<br>
 – [Thoughts on Coding Blog][blogsrc], source code of my 11ty based blog [thoughts-on-coding.com][blog]<br>
+– [math][mathsrc], a library for numerical algorithm (WIP) and its [documentation][mathdoc]<br>
 – [Gravity][gravity], a example implementation of the N-Body problem (WIP)<br> 
 – [linAlg][linalg], a example implementation of several matrix decomposition methods<br> 
 – [numericalIntegration][numint], a example implementation of several numerical integration methods<br> 
@@ -170,3 +171,5 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [numint]: https://github.com/Ben1980/numericalIntegration
 [root]: https://github.com/Ben1980/rootApproximation
 [blogsrc]: https://github.com/Ben1980/thoughts-on-coding
+[mathsrc]: https://github.com/Ben1980/math
+[mathdoc]: https://ben1980.github.io/math/
