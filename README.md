@@ -84,6 +84,9 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
   * Maintainance
   * Support
 
+### Benjamin Mahr's GitHub Stats
+![Ben's GitHub stats][githubstats]
+
 ## Publications
 ### Blog Posts
 * 2021-03-11: [From WordPress to 11ty][bp-20]
@@ -113,8 +116,6 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 * Thin Rims for Internal Gears, GEARSolution, Oktober 2011
 * All Calculation, Drive Technology, December 2011
 * FEM modeling in the foot area of spur gears, SMK 2010, TUDpress, ISBN-13: 978-3941298958
-
-![Ben's GitHub stats][githubstats]
 
 ## Contact Details
 – [Mail][mail]<br> 
@@ -175,4 +176,4 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [blogsrc]: https://github.com/Ben1980/thoughts-on-coding
 [mathsrc]: https://github.com/Ben1980/math
 [mathdoc]: https://ben1980.github.io/math/
-[githubstats]: https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true&theme=dark
+[githubstats]: https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_title=true
