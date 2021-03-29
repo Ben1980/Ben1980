@@ -84,7 +84,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
   * Maintainance
   * Support
 
-### Benjamin Mahr's GitHub Stats
+### GitHub Stats
 ![Ben's GitHub stats][githubstats]
 
 ## Publications
