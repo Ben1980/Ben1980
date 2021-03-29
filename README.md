@@ -37,7 +37,7 @@ I'm strongly convinced of learning and exploring new topics by teaching/explaini
 * 2006 – 2011: B. Eng. Mechanical Engineering at [Hochschule Darmstadt][hda]
 
 ## Projects
-Good references of my work are KISSsoft
+Good references of my work are KISSsoft<br>
 [![Example KISSsoft Contact Analysis Screenshot](https://github.com/Ben1980/Ben1980/blob/master/kisssoftsmall.png)](https://github.com/Ben1980/Ben1980/blob/master/kisssoft.png)<br>
 or many of my GitHub projects such as<br>
 – [Thoughts on Coding Blog][blogsrc], source code of my 11ty based blog [thoughts-on-coding.com][blog]<br>
