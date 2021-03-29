@@ -114,6 +114,8 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 * All Calculation, Drive Technology, December 2011
 * FEM modeling in the foot area of spur gears, SMK 2010, TUDpress, ISBN-13: 978-3941298958
 
+https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true
+
 ## Contact Details
 – [Mail][mail]<br> 
 – [GitHub][github]<br>
