@@ -175,4 +175,4 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [blogsrc]: https://github.com/Ben1980/thoughts-on-coding
 [mathsrc]: https://github.com/Ben1980/math
 [mathdoc]: https://ben1980.github.io/math/
-[githubstats]: https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true
+[githubstats]: https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true&theme=dark
