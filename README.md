@@ -48,7 +48,7 @@ or many of my GitHub projects such as<br>
 – [rootApproximation][root], a example implementation of several numerical root approximation methods<br> 
 
 and comming soon<br> 
-– octologs.com, a Nuxt.js (frontend) and Kotlin/SpringBoot (Backend) based online scuba diving logbook
+– [octologs.com][octologs], a Nuxt.js (frontend) and Kotlin/SpringBoot (Backend) based online scuba diving logbook
 
 ## Technical Skills
 ### Programming Languages
@@ -129,7 +129,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [github]: https://github.com/Ben1980
 [linkedin]: https://www.linkedin.com/in/benmahr/
 [twitter]: https://twitter.com/BenMahr
-[mail]: ben.amhr@gmail.com
+[mail]: ben.mahr@gmail.com
 [xing]: https://www.xing.com/profile/Benjamin_Mahr3/cv
 [qt]: https://www.qt.io/
 [spring]: https://spring.io/
@@ -147,6 +147,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [hda]: https://h-da.de/
 [hsr]: https://www.hsr.ch/
 [fuh]: https://www.fernuni-hagen.de/
+[octologs]: https://octologs.com
 
 [bp-1]: https://thoughts-on-coding.com/2019/02/08/the-n-body-problem-series/
 [bp-2]: https://thoughts-on-coding.com/2019/02/10/why-i-think-of-myself-as-a-programmer-instead-of-a-c-programmer/
