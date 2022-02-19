@@ -48,7 +48,7 @@ or many of my GitHub projects such as<br>
 – [rootApproximation][root], a example implementation of several numerical root approximation methods<br> 
 
 and comming soon<br> 
-– [octologs.com][octologs], a Nuxt.js (frontend) and Kotlin/SpringBoot (Backend) based online scuba diving logbook
+– [octologs.com][octologs], a Nuxt.js (frontend) and Kotlin/SpringBoot (Backend) based online scuba diving logbook<br>
 – [gamemasterscreens.com][gamemasterscreens], game master screens for pen and paper enthusiasts and game masters
 
 ## Technical Skills
