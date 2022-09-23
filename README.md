@@ -48,14 +48,14 @@ or many of my GitHub projects such as<br>
 – [rootApproximation][root], a example implementation of several numerical root approximation methods<br> 
 
 and comming soon<br> 
-– [octologs.com][octologs], a Nuxt.js (frontend) and Kotlin/SpringBoot (Backend) based online scuba diving logbook<br>
+– [octologs.com][octologs], flutter based scuba diving logbook<br>
 
 ## Technical Skills
 ### Programming Languages
-C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
+C++, Python, Dart, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 
 ### Frameworks and Libraries
-[Qt][qt], [Spring Framework/Spring Boot][spring], [Hibernate ORM][hibernate], [JUnit][junit], [Mockito][mockito], [Cucumber][cucumber], [Boost][boost], [Vue.js][vuejs], [Nuxt.js][nuxtjs], [openMP][openmp], [openGL][opengl], [Catch2][catch], [DOCtest][doctest]
+[Qt][qt], [Flutter][flutter], [Spring Framework/Spring Boot][spring], [Hibernate ORM][hibernate], [JUnit][junit], [Mockito][mockito], [Cucumber][cucumber], [Boost][boost], [Vue.js][vuejs], [Nuxt.js][nuxtjs], [openMP][openmp], [openGL][opengl], [Catch2][catch], [DOCtest][doctest]
 
 ### Tooling (only development relevant tooling listed)
 * **Operating System:** Linux (Fedora, Debian), Windows
@@ -148,6 +148,7 @@ C++, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [hsr]: https://www.hsr.ch/
 [fuh]: https://www.fernuni-hagen.de/
 [octologs]: https://octologs.com
+[flutter]: https://flutter.dev/
 
 [bp-1]: https://thoughts-on-coding.com/2019/02/08/the-n-body-problem-series/
 [bp-2]: https://thoughts-on-coding.com/2019/02/10/why-i-think-of-myself-as-a-programmer-instead-of-a-c-programmer/
