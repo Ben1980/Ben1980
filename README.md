@@ -86,6 +86,7 @@ C++, Python, Dart, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 
 ### GitHub Stats
 ![Ben's GitHub stats][githubstats]
+![Ben's GitHub language stats][githublangstats]
 
 ## Publications
 ### Blog Posts
@@ -178,4 +179,5 @@ C++, Python, Dart, Java, Kotlin, JavaScript, VBS/VBA, HTML5, CSS
 [blogsrc]: https://github.com/Ben1980/thoughts-on-coding
 [mathsrc]: https://github.com/Ben1980/math
 [mathdoc]: https://ben1980.github.io/math/
-[githubstats]: https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_title=true
+[githubstats]: https://github-readme-stats.vercel.app/api?username=ben1980&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_title=false&include_all_commits=true
+[githublangstats]: https://github-readme-stats.vercel.app/api/top-langs/?username=ben1980&layout=compact&langs_count=10
